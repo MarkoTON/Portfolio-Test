@@ -9567,7 +9567,7 @@ button.close {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 /*Vars */
-/* line 9, ../scss/style.scss */
+/* line 17, ../scss/style_pro_2.scss */
 body {
   padding-bottom: 0;
   font-family: 'Open Sans',Arial,Tahoma;
@@ -9577,7 +9577,7 @@ body {
   margin-top: 100px;
 }
 
-/* line 19, ../scss/style.scss */
+/* line 27, ../scss/style_pro_2.scss */
 h2 {
   font-weight: 700;
   text-transform: uppercase;
@@ -9585,12 +9585,12 @@ h2 {
   font-size: 1.5em;
 }
 
-/* line 26, ../scss/style.scss */
+/* line 34, ../scss/style_pro_2.scss */
 .primary, strong, h2 {
   color: #3b5a76;
 }
 
-/* line 30, ../scss/style.scss */
+/* line 38, ../scss/style_pro_2.scss */
 .container-main {
   background: #fff;
   margin-top: 80px;
@@ -9599,13 +9599,13 @@ h2 {
   margin-bottom: 20px;
 }
 
-/* line 38, ../scss/style.scss */
+/* line 46, ../scss/style_pro_2.scss */
 header {
   min-height: 100px;
   overflow: auto;
 }
 
-/* line 43, ../scss/style.scss */
+/* line 51, ../scss/style_pro_2.scss */
 header h1 {
   margin: 0;
   padding: 20px 0 0 0;
@@ -9615,20 +9615,14 @@ header h1 {
   letter-spacing: -1px;
   text-align: center;
   line-height: 1.4em;
-  animation-delay: 0.5s;
 }
 
-/* line 55, ../scss/style.scss */
-.about {
-  animation-delay: 2s;
-}
-
-/* line 58, ../scss/style.scss */
+/* line 63, ../scss/style_pro_2.scss */
 .row {
   margin-bottom: 20px;
 }
 
-/* line 62, ../scss/style.scss */
+/* line 67, ../scss/style_pro_2.scss */
 .profile-img {
   width: 160px;
   display: block;
@@ -9637,26 +9631,26 @@ header h1 {
   margin-top: -80px;
 }
 
-/* line 70, ../scss/style.scss */
+/* line 75, ../scss/style_pro_2.scss */
 .line {
   width: 100%;
   max-width: 100%;
 }
 
-/* line 75, ../scss/style.scss */
+/* line 80, ../scss/style_pro_2.scss */
 .contact-list {
   padding: 0;
   margin: 0;
 }
 
-/* line 79, ../scss/style.scss */
+/* line 84, ../scss/style_pro_2.scss */
 .contact-list li {
   list-style: none;
   font-weight: bold;
   line-height: 3.2em;
 }
 
-/* line 84, ../scss/style.scss */
+/* line 89, ../scss/style_pro_2.scss */
 .contact-list span {
   display: block;
   margin: 0;
@@ -9667,29 +9661,18 @@ header h1 {
   color: #ccc;
 }
 
-/* line 94, ../scss/style.scss */
+/* line 99, ../scss/style_pro_2.scss */
 .contact-list img {
   width: 40px;
   padding-right: 5px;
-  animation-delay: 1s;
 }
 
-/* line 100, ../scss/style.scss */
-.education, .media {
-  animation-delay: 3s;
-}
-
-/* line 104, ../scss/style.scss */
-.programing {
-  animation-delay: 2s;
-}
-
-/* line 108, ../scss/style.scss */
+/* line 104, ../scss/style_pro_2.scss */
 .media {
   background: #ededed;
 }
 
-/* line 112, ../scss/style.scss */
+/* line 108, ../scss/style_pro_2.scss */
 .work-list li {
   list-style: none;
   float: left;
@@ -9697,14 +9680,14 @@ header h1 {
   margin-bottom: 30px;
 }
 
-/* line 119, ../scss/style.scss */
+/* line 115, ../scss/style_pro_2.scss */
 .work-list img {
   vertical-align: middle;
   padding: 0;
   padding-right: 35px;
 }
 
-/* line 125, ../scss/style.scss */
+/* line 121, ../scss/style_pro_2.scss */
 footer {
   background: #3b5a76;
   color: #fff;
@@ -9712,20 +9695,20 @@ footer {
   padding-bottom: 20px;
   border-top: 2px solid black;
 }
-/* line 132, ../scss/style.scss */
+/* line 128, ../scss/style_pro_2.scss */
 footer p {
   display: inline;
   float: right;
   border-bottom: 2px solid white;
 }
 
-/* line 139, ../scss/style.scss */
+/* line 135, ../scss/style_pro_2.scss */
 .media {
   background: #ededed;
   padding: 10px;
 }
 
-/* line 143, ../scss/style.scss */
+/* line 139, ../scss/style_pro_2.scss */
 .media-left {
   padding-right: 10px;
   /* margin-right: 160px; */

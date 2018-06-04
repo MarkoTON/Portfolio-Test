@@ -1,18 +1,10 @@
-
 @import 'vendors/_bootstrap.scss';
-
-
 
 /*Vars */
 $primary-color:#3b5a76;
 $background-color:#ededed;
 $text-color:#363636;
 $font: 16px;
-
-
-html {
-}
-
 
 body {
 	padding-bottom:0;
@@ -57,9 +49,12 @@ header h1 {
 		letter-spacing: -1px;
 		text-align: center;
 		line-height: 1.4em;
-		
+    animation-delay: 0.5s;
 }
 
+.about {
+    animation-delay: 2s;	
+}
 .row {
 		margin-bottom: 20px;
 }
@@ -98,7 +93,16 @@ header h1 {
 
 .contact-list img {
 		width: 40px;
-    padding-right: 5px;
+		padding-right: 5px;
+		animation-delay: 1s;
+}
+
+.education, .media {
+  animation-delay: 3s;
+}
+
+.programing {
+	animation-delay: 2s;
 }
 
 .media {
