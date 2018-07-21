@@ -9715,31 +9715,32 @@ footer {
 /* line 132, ../scss/style.scss */
 footer p {
   display: inline;
-  float: right;
   border-bottom: 2px solid white;
 }
 
+/* line 138, ../scss/style.scss */
 .backToCV {
   position: fixed;
   left: 0;
   bottom: 0;
-	margin: 20px;
+  margin: 20px;
 }
 
+/* line 145, ../scss/style.scss */
 .backToCV img {
-	width: 20%;
-	border: 1px solid #78C2AD;
-	border-radius: 50%;
-	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  width: 20%;
+  border: 1px solid #78C2AD;
+  border-radius: 50%;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
 
-/* line 139, ../scss/style.scss */
+/* line 152, ../scss/style.scss */
 .media {
   background: #ededed;
   padding: 10px;
 }
 
-/* line 143, ../scss/style.scss */
+/* line 156, ../scss/style.scss */
 .media-left {
   padding-right: 10px;
   /* margin-right: 160px; */
